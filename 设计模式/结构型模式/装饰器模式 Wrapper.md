@@ -1,0 +1,5 @@
+桥接模式是将抽象部分与它的实现部分分离，使它们都可以独立地变化。
+使用场景：
+SpringSession中Session和Redis的关联
+MyBatis中QueryWrapper
+Spring中BeanWrapper
