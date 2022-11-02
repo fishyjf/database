@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "6c9b49a932d5e96f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b7c4795d1d12be9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "898e4b14a5c95016",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中润振华/网络货运/业务/业务流程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "540ccd99f078de91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中润振华/网络货运/业务/业务角色.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1081c8be86e9504",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中润振华/网络货运/业务/业务角色.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f13117a1138ea9ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "2aa55213bf9124ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73356203f323811f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a45bb853a2c6351d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "99ac6e9c6c107f45",
+    "type": "split",
+    "children": [
+      {
+        "id": "f776ff7c7d16b4b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9796a206db738f23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "中润振华/网络货运/业务/业务角色.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f1081c8be86e9504",
+  "lastOpenFiles": [
+    "中润振华/网络货运/业务/业务流程.md",
+    "中润振华/网络货运/业务/支付流程.md",
+    "中润振华/网络货运/业务/业务角色.md",
+    "Maven/POM.md",
+    "沐融科技/常用信息/账号.md",
+    "沐融科技/业务/加积分.md",
+    "沐融科技/业务/减积分.md",
+    "沐融科技/常用信息/地址.md",
+    "沐融科技/Boss/工作流/重要节点.md",
+    "Linux/less.md"
+  ]
+}
