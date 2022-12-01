@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0303谈谈Spring IOC的理解，原理与实现.md",
+            "file": "中润振华/网络货运/账号.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0303谈谈Spring IOC的理解，原理与实现.md",
+                "file": "中润振华/网络货运/账号.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "ca6e4236150ad0c9",
   "lastOpenFiles": [
+    "中润振华/网络货运/账号.md",
+    "中润振华/账号.md",
+    "中润振华/服务器.md",
+    "中润振华/网络货运/第三方汇总/华为云MSGSMS短信接口.md",
+    "中润振华/网络货运/第三方汇总/高德地图.md",
+    "中润振华/网络货运/第三方汇总/华为云OCR接口.md",
     "0303谈谈Spring IOC的理解，原理与实现.md",
     "设计模式/创建型模式/工厂模式 Factory.md",
     "Spring/基础接口/ResourceLoader（资源加载器）.md",
-    "Spring/基础接口/BeanFactory（Bean工厂）.md",
-    "Spring/基础接口/Resource（资源）.md",
-    "Spring/基础接口/BeanDefinition（bean定义信息）.md",
-    "Spring/基础接口/BeanDefinitionRegistry（bean定义信息注册中心）.md",
-    "Spring/基础接口/BeanDefinitionReader（bean定义信息读取器） 1.md",
-    "Spring/基础接口/ApplicationContext（应用前后关系）.md",
-    "设计模式/结构型模式/桥接模式.md"
+    "Spring/基础接口/BeanFactory（Bean工厂）.md"
   ]
 }
