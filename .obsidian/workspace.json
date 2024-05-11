@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoLang/goframe2.md",
+                "file": "青椰科技/地址.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoLang/goframe2.md",
+                "file": "青椰科技/地址.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,6 +186,8 @@
   "active": "be96b89d9b426de8",
   "lastOpenFiles": [
     "GoLang/goframe2.md",
+    "青椰科技/地址.md",
+    "青椰科技",
     "Mysql/MyISAM与InnoDB 的区别.md",
     "GoLang/golang环境详细安装、配置.md",
     "GoLang",
@@ -211,7 +213,6 @@
     "多线程/interrupt.md",
     "多线程/join.md",
     "多线程/LockSupport：park、unpark.md",
-    "架构/路线.md",
     "Pasted image 20230413192722.png",
     "Mysql",
     "云谷软件/建设项目调度系统",
